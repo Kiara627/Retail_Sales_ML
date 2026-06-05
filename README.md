@@ -2,6 +2,8 @@
 
 A machine learning regression pipeline that predicts retail transaction revenue across a 50K-record multi-channel dataset. Built as a business analytics data product for **sales forecasting**, **regional demand planning**, **CLV estimation**, and **behavioral segmentation** — with direct applications to fintech and growth analytics contexts.
 
+📊 **[View Project Presentation →](https://docs.google.com/presentation/d/1VT6EQroazmAALKQpJ0RDCjSppSP_WnM7uefmG6NYBHQ/edit?slide=id.g38ca0955ec6_0_0#slide=id.g38ca0955ec6_0_0)**
+
 ---
 
 ## 🏆 Key Results
